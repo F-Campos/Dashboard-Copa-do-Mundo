@@ -1,6 +1,6 @@
 # Dashboard Copa do Mundo
 
-Desenvolvi esse dashboard em Power BI e deixei todo o material usado (base de dados, bachgrounds, etc) disponíveis nesse repositório para quem tiver interessse em
+Desenvolvi esse dashboard em Power BI e deixei todo o material usado (base de dados, backgrounds, etc) disponíveis nesse repositório para quem tiver interessse em
 desenvolver e aplicar seus conhecimentos em Power BI.
 
 Você pode acessar o dashboard nesse link: 
